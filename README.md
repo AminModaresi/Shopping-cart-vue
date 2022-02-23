@@ -1,4 +1,4 @@
-# vue-first
+# shopping Cart
 
 ## Project setup
 ```
